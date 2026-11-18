@@ -1,0 +1,7 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: #0e0f13; color: #f2f3f7; font: 16px/1.6 "Segoe UI", system-ui, sans-serif; }
+main { max-width: 640px; margin: 0 auto; padding: 48px 16px; }
+h1 { font-size: 26px; margin: 0 0 4px; }
+.app { color: #ff6a3d; font-weight: 700; margin: 0 0 24px; }
+.small { color: #9097a7; font-size: 14px; }
+a { color: #ff9a5c; }
